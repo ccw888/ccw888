@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Cheng Wei</h1>
-<h3 align="center">A passionate and motivated Data Analyst</h3>
+<h3 align="center">My fascination with data sparked when I first delved into data wrangling, unveiling the remarkable power of data to unearth hidden patterns and insights. My passion now lies in descriptive analytics and creating captivating data visualizations. I strive to transform complex data sets into clear, engaging narratives, making intricate information accessible and visually appealing. Join me in exploring the enthralling world of data, where every number tells a story.</h3>
 
 - 🌱 I’m currently learning **Big data technologies**
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/chuachengwei](https://www.datascienceportfol.io/chuachengwei)
 
-- 💬 Ask me about **tableau, python**
+- 💬 Ask me about **tableau, python, SQL**
 
 - 📫 How to reach me **ccw888@gmail.com**
 
